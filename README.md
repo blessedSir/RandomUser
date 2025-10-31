@@ -4,8 +4,7 @@ A small learning project focused on **responsive layout** and **working with API
 Built with **React + Vite**, featuring data fetching from an external API and a fully responsive UI (from 320px to desktop).
 
 **Project goals:**
-- Practice adaptive design (flex, grid, media queries)
-- Work with API (fetch / axios)
-- Strengthen understanding of component-based architecture in React
+- Practice adaptive design 
+- Work with API 
 
 # RandomUser

@@ -8,3 +8,5 @@ Built with **React + Vite**, featuring data fetching from an external API and a 
 - Work with API 
 
 # RandomUser
+
+https://random-user-eight-azure.vercel.app/
